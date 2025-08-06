@@ -5,7 +5,7 @@ def main(page: ft.Page):
     page.window.width = 350
     page.window.height = 500
     page.padding = 20
-    page.bgcolor="#9f6236"
+    page.bgcolor="#9f3636"
     
     name = ft.TextField(label="Full Name")
     phone = ft.TextField(label="Phone")
